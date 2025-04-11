@@ -100,11 +100,12 @@ The project is very lightweight, it does not have GUI, only code, so you have to
 
 - and many more...
 
-** Examples
+## Examples
 
 - Here is a simple scene that comes with the engine with gameplay:
 
+[https://github.com/LuDeVing/2D-Game-Engine/blob/master/gameplay.mp4](https://github.com/LuDeVing/2D-Game-Engine/blob/master/gameplay.mp4)
 
 - Here is exaplme of what scene printing looks like(this is a very simple and unoptimized solution I made many years ago, it can easly be changed if someone needs it to be changed.):
 
-
+https://github.com/LuDeVing/2D-Game-Engine/blob/master/scene%20saving.mp4
