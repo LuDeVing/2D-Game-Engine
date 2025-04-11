@@ -10,7 +10,6 @@ A custom-built **2D Game Engine** written in C++ from scratch. This engine is de
 
 - [Features](#features)
 - [Usage](#usage)
-- [Architecture](#architecture)
 - [Examples](#examples)
 
 ## Features
